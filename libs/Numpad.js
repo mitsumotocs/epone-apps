@@ -9,7 +9,7 @@ const Numpad = {
     KEY_7: '7',
     KEY_8: '8',
     KEY_9: '9',
-    KEY_STAR: '*',
+    KEY_STAR: '(',
     KEY_SHARP: '#',
 };
 
